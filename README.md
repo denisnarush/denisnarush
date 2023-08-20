@@ -1,12 +1,38 @@
 ## Who I am
-_CV was updated in Aug 2022_
+_CV was updated in Aug 2023_
 
+Senior frontend engineer with more than 13 years of commercial experience. I ❤ vanilla JS. HTML and CSS. Know about  [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
 
-Front-End (and only front-end) senior engineer and I ❤ vanilla JS. HTML, CSS Ninja. Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process. Have more than 12 years of commercial experience and 7 years of mentoring experience. All students successfully found jobs in IT-companies.
+Main areas of expertise are: Web apps / Mobile (hybrid) apps. Angular, Ionic, TypeScript, RxJs, Javascript, Nx.
 
-Playing with Angular, NX and Ionic most of the time. Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
+Responsibilities:
+- Ship high-quality, well-tested, secure, and maintainable code;
+- Develop frontend software applications using my extensive knowledge of Angular or Ionic, TypeScript and CSS;
+- Develop UI components using Storybook;
+- Performance tuning and ensuring best practices;
+- Develop shared components and making them accessible to other developers;
+- Engage in a shared code base through peer reviews and pull requests;
+- Assist with improving code integration and deployment processes;
+- Participate in planning, daily stand-ups, and retrospectives;
+- Proactive team player that works with others on improving ways of working;
+- Track record of mentoring and helping grow careers of junior engineers.
 
-Have personal [project](https://github.com/users/denisnarush/projects/6) were I want to combine all past commercial experience, business & technical solutions and workflows. Was working on my personal idea of how [music player](https://github.com/denisnarush/mp) could be used to find and listen to new music before SoundCloud changed its API terms of service.
+Qualifications:
+- Designing, building, and maintaining complex web applications with a particular emphasis on the UI (interactions, styling, etc.) plus participating in software design meetings and analyse user needs to determine technical requirements;
+- Practicing test-driven development;
+- Understanding of modern frontend ecosystem, including but not limited to bundling, linting, testing, and releasing;
+- Experience in Agile/Scrum software development methodologies;
+
+Experience:
+- Excellent knowledge of HTML & CSS;
+- Hands - on experience with Git source code managemen;
+- Good knowledge of modern Javascript development;
+- Excellent knowledge of Angular, Ionic, TypeScript, RxJs, NX;
+- Knowledge of Material UI;
+
+My Values:
+- Practice excellence, improve on your legacy, create awesomeness.
+- Collaborate and have respect for each other.
 
 ## Contacts
 - ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
@@ -99,7 +125,7 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 
 **javascript**:
 - ES5+
-- AngularJS, Angular 2+
+- AngularJS, Angular 2+ ([Material UI](https://material.angular.io), [PrimeNG](https://primeng.org/)
 - [TypeScript](https://www.typescriptlang.org)
 - [Ionic 3+](https://ionicframework.com/), jQuery Mobile, Sencha touch 2
 - Underscore, Lodash, jQuery,
