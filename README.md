@@ -28,7 +28,6 @@ Experience:
 - Hands - on experience with Git source code managemen;
 - Good knowledge of modern Javascript development;
 - Excellent knowledge of Angular, Ionic, TypeScript, RxJs, NX;
-- Knowledge of Material UI;
 
 My Values:
 - Practice excellence, improve on your legacy, create awesomeness.
@@ -125,7 +124,7 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 
 **javascript**:
 - ES5+
-- AngularJS, Angular 2+ ([Material UI](https://material.angular.io), [PrimeNG](https://primeng.org/)
+- AngularJS, Angular 2+ ([Material UI](https://material.angular.io), [PrimeNG](https://primeng.org/))
 - [TypeScript](https://www.typescriptlang.org)
 - [Ionic 3+](https://ionicframework.com/), jQuery Mobile, Sencha touch 2
 - Underscore, Lodash, jQuery,
